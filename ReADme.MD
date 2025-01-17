@@ -3,7 +3,7 @@ I’ve been making things on the internet for most of my life, and websites are 
 
 On GitHub I like to make small contributions to various projects I find interesting; this is what the dozens of forks on my account are for. Perhaps the most notable thing to come from this is that I’ve joined the dev team of [Mario Royale Legacy](http://marioroyale.com) thanks to my frontend work.
 
-My goals for 2024 are to learn full stack web development, game design and [Geometry Dash modding](http://geode-sdk.org).
+My goals for ~~2024~~ 2025 are to learn full stack web development, game design and [Geometry Dash modding](http://geode-sdk.org).
 
 Thanks for checking me out and have a great day :)
 
