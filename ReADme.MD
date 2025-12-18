@@ -7,6 +7,6 @@ Aside from hobbyist web development, I like to make small contributions to vario
 
 My goals for ~~2024~~ 2025 are to learn full stack web development, game design and [Geometry Dash modding](http://geode-sdk.org).
 
-Maybe check out [my so-called “cool website”](http://nightcat.gg)? I heard it’s “[responsive](http://bestmotherfucking.website)”.
+Maybe check out [my so-called “cool website”](http://nightc.at)? I heard it’s “[responsive](http://bestmotherfucking.website)”.
 
 [![Profile views](http://komarev.com/ghpvc/?username=Nightcaat&color=ea953e)](http://github.com/antonkomarev/github-profile-views-counter) [![Total time coded since 2018-06-26](http://wakatime.com/badge/user/035a512a-f795-402c-ae4d-3d6f54b8356b.svg)](http://wakatime.com/@Nightcat)
